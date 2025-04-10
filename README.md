@@ -1,2 +1,2 @@
-# configs
+## configs
 Don't Use Any Script Without Knowing what it is...
